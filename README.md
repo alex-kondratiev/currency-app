@@ -1,11 +1,11 @@
 # Currency App
 
 ## About
-Client app for CRMant
+Currency App
 
 ## Installation
 ``` sh
-$ git clone https://github.com/dn190187kaj/currency-app.git
+$ git clone https://github.com/alex-kondratiev/currency-app.git
 $ cd currency-app
 $ npm install
 ```
